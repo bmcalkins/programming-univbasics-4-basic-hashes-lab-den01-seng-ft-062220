@@ -14,5 +14,5 @@ end
 
 
 def id_hash_generator(number)
-  id_hash_generator[:ID] = 5
+ { id: number}
 end
